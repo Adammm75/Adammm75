@@ -73,11 +73,6 @@ Apprenti développeur chez **IXI Groupe**, je mène des projets mêlant **Data, 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adammm75&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adammm75&layout=compact&theme=tokyonight)
 
-<!-- Graphique d'activité animé -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adammm75&theme=react-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=79c0ff&point=ff6b6b" width="100%" alt="Contribution Graph"/>
-</p>
-
 <details>
 <summary>📚 <b>Détails techniques</b> (clique pour déplier) 🔍</summary>
 <br>
