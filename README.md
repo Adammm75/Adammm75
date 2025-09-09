@@ -51,13 +51,8 @@ Apprenti développeur chez **IXI Groupe**, je mène des projets mêlant **Data, 
 ---
 
 ### 📈 Stats & Activité
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adammn75&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Adammn75&hide_border=true" />
-</p>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adammn75&layout=compact&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adammm75&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adammm75&layout=compact&theme=tokyonight)
 
 <details>
 <summary>📚 Détails techniques (clique pour déplier)</summary>
