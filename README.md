@@ -1,8 +1,7 @@
-
-
 <p align="center">
-  <img src="" alt="Typing SVG" />
+  <img src="./photo.png" alt="Bannière" width="700">
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mekkiou-a-b64021262/">
