@@ -50,17 +50,7 @@ Apprenti développeur chez **IXI Groupe**, je mène des projets mêlant **Data, 
   <img src="https://skillicons.dev/icons?i=java,spring,php,symfony,python,js,html,css,git,github,docker,mysql,postgres,sqlite,postman,powershell,linux&theme=dark&perline=8" alt="stack icons" />
 </p>
 
-<!-- Technologies avec progression animée -->
-<h3 align="center">📊 Langages & Technologies</h3>
 
-```text
-Python       ████████████████████████▓   95.00 % 
-Java         ████████████████████████░   90.00 % 
-JavaScript   ████████████████████░░░░░   80.00 % 
-PHP          ███████████████████▓░░░░░   77.50 % 
-SQL          ██████████████████████▓░░   85.00 % 
-Docker       ████████████████▓░░░░░░░░   70.00 % 
-```
 
 <!-- Ligne séparatrice avec effet de vague -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -93,6 +83,19 @@ Docker       ████████████████▓░░░░░�
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adammm75&theme=radical&hide_border=true&background=0d1117&stroke=c9d1d9&ring=79c0ff&fire=ff6b6b&currStreakNum=c9d1d9&currStreakLabel=79c0ff&sideNums=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" />
 </p>
+
+<!-- Graphique d'activité - Solutions alternatives -->
+<p align="center">
+  <!-- Option 1: Service principal -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adammm75&theme=react-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=79c0ff&point=ff6b6b&area=true&area_color=79c0ff" width="100%" alt="Contribution Graph"/>
+</p>
+
+<!-- Si le graphique principal ne marche pas, essayons une alternative -->
+<!-- 
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Adammm75&theme=react-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=79c0ff&point=ff6b6b" width="100%" alt="Contribution Graph Alternative"/>
+</p>
+-->
 
 <!-- Graphique d'activité animé -->
 <p align="center">
