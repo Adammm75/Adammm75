@@ -20,7 +20,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🧭 À propos
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 Développeur passionné de **21 ans**, je conçois des applications **robustes et maintenables**. J'aime transformer des idées en **code propre** : APIs REST, backends performants, **workflows d'automatisation** et intégrations (n8n, Power Automate, Graph, Avensys, OneDrive).  
 
