@@ -71,10 +71,25 @@ Apprenti développeur chez **IXI Groupe**, je mène des projets mêlant **Data, 
 
 ### 📈 Stats GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adammm75&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=79c0ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adammm75&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9"/>
-</p>
+<div align="center">
+  
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adammm75&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=79c0ff&text_color=c9d1d9"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adammm75&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&langs_count=8"/>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Stats supplémentaires en version compacte -->
+  <br>
+  
+  ![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Adammm75&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15)
+
+</div>
 
 <!-- Graphique d'activité animé -->
 <p align="center">
