@@ -84,19 +84,6 @@ Apprenti développeur chez **IXI Groupe**, je mène des projets mêlant **Data, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adammm75&theme=radical&hide_border=true&background=0d1117&stroke=c9d1d9&ring=79c0ff&fire=ff6b6b&currStreakNum=c9d1d9&currStreakLabel=79c0ff&sideNums=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" />
 </p>
 
-<!-- Graphique d'activité - Solutions alternatives -->
-<p align="center">
-  <!-- Option 1: Service principal -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adammm75&theme=react-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=79c0ff&point=ff6b6b&area=true&area_color=79c0ff" width="100%" alt="Contribution Graph"/>
-</p>
-
-<!-- Si le graphique principal ne marche pas, essayons une alternative -->
-<!-- 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Adammm75&theme=react-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=79c0ff&point=ff6b6b" width="100%" alt="Contribution Graph Alternative"/>
-</p>
--->
-
 <!-- Graphique d'activité animé -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adammn75&theme=react-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=79c0ff&point=ff6b6b" width="100%" alt="Contribution Graph"/>
@@ -265,11 +252,6 @@ Apprenti développeur chez **IXI Groupe**, je mène des projets mêlant **Data, 
 
 <br>
 
-<!-- Quote animée avec GIF -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0d1117&border=false" alt="Random Quote" />
-</p>
-
 </div>
 
 <!-- Ligne finale avec animation -->
@@ -277,7 +259,7 @@ Apprenti développeur chez **IXI Groupe**, je mène des projets mêlant **Data, 
 
 <!-- Bandeau wavy décoratif avec animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,30&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1e3a8a,100:1d4ed8&section=footer&animation=fadeIn"/>
 </div>
 
 <!-- Badge "Fait avec ❤️" -->
