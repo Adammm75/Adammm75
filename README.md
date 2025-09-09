@@ -17,7 +17,7 @@
 Développeur passionné, je conçois des **applications robustes et maintenables**.  
 J’adore transformer des idées en **code propre** : **APIs REST**, **backends performants**, **workflows d’automatisation** et intégrations (n8n, Power Automate).
 
-- 🎓 **CNAM – L3 Info** | Alternance chez **IXI Groupe**
+- 🎓 **Université Paris Nanterre – M1 MIAGE** | Alternance chez **?**
 - 🔭 Actuellement : projets **Spring Boot** / **Symfony**, intégrations **API** (Avensys, Qard), **dashboards** & un peu de **Data/IA**
 - 🧪 J’aime shipper vite, tester, mesurer, itérer
 
