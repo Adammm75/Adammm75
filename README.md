@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/mekkiou-a-b64021262/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Adammn75&style=for-the-badge&color=brightgreen&animated=true" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Adammm75&style=for-the-badge&color=brightgreen" alt="Profile views" />
   <img src="https://img.shields.io/badge/Location-🇫🇷%20Île%20de%20France-success?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Île-de-France" />
 </p>
 
@@ -69,16 +69,11 @@ Apprenti développeur chez **IXI Groupe**, je mène des projets mêlant **Data, 
 <!-- Ligne séparatrice -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📈 Stats GitHub & Activité
+### 📈 Stats GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adammm75&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=79c0ff&text_color=c9d1d9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adammm75&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9"/>
-</p>
-
-<!-- Streak Stats avec thème sombre -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adammm75&theme=radical&hide_border=true&background=0d1117&stroke=c9d1d9&ring=79c0ff&fire=ff6b6b&currStreakNum=c9d1d9&currStreakLabel=79c0ff&sideNums=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" />
 </p>
 
 <!-- Graphique d'activité animé -->
