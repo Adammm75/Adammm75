@@ -2,24 +2,32 @@
   <img src="./photo.png" alt="Bannière" width="300">
 </p>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mekkiou-a-b64021262/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Adammn75&style=flat&color=brightgreen" alt="profile views" />
-  <img src="https://img.shields.io/badge/Location-Île%20de%20France-0a0" />
+  <img src="https://komarev.com/ghpvc/?username=Adammn75&style=flat&color=brightgreen" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Location-%C3%8Ele%20de%20France-0a0" alt="Location: Île-de-France" />
 </p>
 
 ---
 
 ### 🧭 À propos
-Développeur passionné, je conçois des applications robustes et maintenables. J’adore transformer des idées en code propre : APIs REST, backends performants, workflows d’automatisation et intégrations (n8n, Power Automate, Graph, Avensys, OneDrive).
-Actuellement apprenti développeur chez IXI Groupe, je mène des projets mêlant Data, IA et RPA avec un vrai souci RGPD et de documentation.
+Développeur passionné, je conçois des applications **robustes et maintenables**. J’aime transformer des idées en **code propre** : APIs REST, backends performants, **workflows d’automatisation** et intégrations (n8n, Power Automate, Graph, Avensys, OneDrive).  
+Apprenti développeur chez **IXI Groupe**, je mène des projets mêlant **Data, IA et RPA**, avec un vrai souci du **RGPD** et de la **documentation**.
 
-- 🎓 **Université Paris Nanterre – M1 MIAGE** | Alternance chez **?**
-- 🔭 Actuellement : projets **Spring Boot** / **Symfony**, intégrations **API** (Avensys, Qard), **dashboards** & un peu de **Data/IA**
-- 🧪 J’aime shipper vite, tester, mesurer, itérer
+- 🎓 **Université Paris Nanterre — M1 MIAGE** (Systèmes d’Information Fiables & Intelligence des Données)  
+  🔎 **Alternance** : ouvert aux opportunités (24 mois)
+- 🔭 En ce moment : projets **Spring Boot** / **Symfony**, intégrations **API** (Avensys, Qard), **dashboards** & un peu de **Data/IA**
+- 🧪 J’aime livrer vite, tester, mesurer, itérer
+
+### 🔧 Ce que je fais
+- Automatisation de reportings (**Python**, **SQL**, **Power BI**, **PAD**) et exports **Excel/Word** industrialisés  
+- **Agent IA / Golem.ai InboxCare** : tri & réponses aux emails + intégration Avensys (ROI, délais réduits)  
+- **Workflows M365** d’onboarding (comptes, licences, droits) via **Power Automate**  
+- Apps **Java/JavaFX** (tutorat, bourse), backends **Spring Boot**, bases **MySQL/SQL Server**  
+- Projets **Data/ML** (classification churn Kaggle, prévisions) et automatisations **Yousign** / `python-docx`
+
 
 ---
 
