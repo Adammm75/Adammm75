@@ -31,8 +31,6 @@ Apprenti développeur chez **IXI Groupe**, je mène des projets mêlant **Data, 
 - 🧪 J'aime livrer vite, tester, mesurer, itérer
 - ⚡ Fun fact: **Coffee = Code** ☕
 
-<br clear="both"/>
-
 ### 🔧 Ce que je fais
 - 🤖 Automatisation de reportings (**Python**, **SQL**, **Power BI**, **PAD**) et exports **Excel/Word** industrialisés  
 - 🧠 **Agent IA / Golem.ai InboxCare** : tri & réponses aux emails + intégration Avensys (ROI, délais réduits)  
@@ -263,6 +261,6 @@ Apprenti développeur chez **IXI Groupe**, je mène des projets mêlant **Data, 
 
 <!-- Badge "Fait avec ❤️" -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge&logo=github&logoColor=white" alt="Made with love" />
+  <img src="https://img.shields.io/badge/Made%20with-Code-red?style=for-the-badge&logo=github&logoColor=white" alt="Made with code" />
   <img src="https://img.shields.io/badge/Powered%20by-☕%20Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Powered by coffee" />
 </p>
