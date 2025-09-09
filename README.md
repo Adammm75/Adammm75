@@ -13,18 +13,18 @@
 ---
 
 ### 🧭 À propos
-Développeur passionné, je conçois des applications **robustes et maintenables**. J’aime transformer des idées en **code propre** : APIs REST, backends performants, **workflows d’automatisation** et intégrations (n8n, Power Automate, Graph, Avensys, OneDrive).  
+Développeur passionné de 21 ans, je conçois des applications **robustes et maintenables**. J'aime transformer des idées en **code propre** : APIs REST, backends performants, **workflows d'automatisation** et intégrations (n8n, Power Automate, Graph, Avensys, OneDrive).  
 Apprenti développeur chez **IXI Groupe**, je mène des projets mêlant **Data, IA et RPA**, avec un vrai souci du **RGPD** et de la **documentation**.
 
-- 🎓 **Université Paris Nanterre — M1 MIAGE** (Systèmes d’Information Fiables & Intelligence des Données)  
+- 🎓 **Université Paris Nanterre — M1 MIAGE** (Systèmes d'Information Fiables & Intelligence des Données)  
   🔎 **Alternance** : ouvert aux opportunités (24 mois)
 - 🔭 En ce moment : projets **Spring Boot** / **Symfony**, intégrations **API** (Avensys, Qard), **dashboards** & un peu de **Data/IA**
-- 🧪 J’aime livrer vite, tester, mesurer, itérer
+- 🧪 J'aime livrer vite, tester, mesurer, itérer
 
 ### 🔧 Ce que je fais
 - Automatisation de reportings (**Python**, **SQL**, **Power BI**, **PAD**) et exports **Excel/Word** industrialisés  
 - **Agent IA / Golem.ai InboxCare** : tri & réponses aux emails + intégration Avensys (ROI, délais réduits)  
-- **Workflows M365** d’onboarding (comptes, licences, droits) via **Power Automate**  
+- **Workflows M365** d'onboarding (comptes, licences, droits) via **Power Automate**  
 - Apps **Java/JavaFX** (tutorat, bourse), backends **Spring Boot**, bases **MySQL/SQL Server**  
 - Projets **Data/ML** (classification churn Kaggle, prévisions) et automatisations **Yousign** / `python-docx`
 
@@ -39,11 +39,11 @@ Apprenti développeur chez **IXI Groupe**, je mène des projets mêlant **Data, 
 ---
 
 ### 🌟 Projets mis en avant
-- **AlloCiné – Spring Boot (L3)** – API + couche service + tests — *en cours d’amélioration*  
+- **AlloCiné – Spring Boot (L3)** – API + couche service + tests — *en cours d'amélioration*  
   🔗 https://github.com/Adammn75/ALLO_CINE_SPRING_BOOT_L3_INFO  
 - **Gestion Bourse – Spring Boot** – CRUD complet, services, DTO, validation  
   🔗 https://github.com/Adammn75/GESTION_BOURSE_SPRING_BOOT_L3_INFO  
-- **Qard API – Symfony + Docker** – intégration d’API, services, HttpClient  
+- **Qard API – Symfony + Docker** – intégration d'API, services, HttpClient  
   🔗 https://github.com/Adammn75 (épingle le dépôt quand il est prêt)
 
 > Astuce : va sur **Profile → Customize your pins** pour épingler 6 repos.
@@ -60,14 +60,14 @@ Apprenti développeur chez **IXI Groupe**, je mène des projets mêlant **Data, 
 #### Standards & pratiques
 - Architecture claire (**controllers → services → repositories**)
 - **DTOs / validation** pour des APIs propres
-- **Docs README/Swagger** quand c’est pertinent
-- **CI/CD** (à venir) + **Docker** pour l’isolation
-- Logs utiles, gestion d’erreurs, métriques
+- **Docs README/Swagger** quand c'est pertinent
+- **CI/CD** (à venir) + **Docker** pour l'isolation
+- Logs utiles, gestion d'erreurs, métriques
 
 #### Automatisation & Intégrations
 - **n8n / Power Automate** : ETL léger, connecteurs, webhooks
 - **APIs** (Avensys, Qard…) : auth, pagination, rate-limits, rétries
-- **Dashboards** : KPI, suivi d’activité, exports
+- **Dashboards** : KPI, suivi d'activité, exports
 </details>
 
 ---
@@ -82,8 +82,8 @@ Apprenti développeur chez **IXI Groupe**, je mène des projets mêlant **Data, 
 
 <!-- Badges de contact principaux avec animations -->
 <p align="center">
-  <a href="mailto:adam.mekkiou@exemple.fr?subject=🚀%20Opportunité%20depuis%20GitHub&body=Bonjour%20Adam%2C%0A%0AJe%20vous%20contacte%20suite%20à%20la%20découverte%20de%20votre%20profil%20GitHub.%0A%0A" title="📧 Email professionnel">
-    <img alt="Email" src="https://img.shields.io/badge/📧%20Email-adam.mekkiou@exemple.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" />
+  <a href="mailto:adam.mekkiou@outlook.fr?subject=🚀%20Opportunité%20depuis%20GitHub&body=Bonjour%20Adam%2C%0A%0AJe%20vous%20contacte%20suite%20à%20la%20découverte%20de%20votre%20profil%20GitHub.%0A%0A" title="📧 Email professionnel">
+    <img alt="Email" src="https://img.shields.io/badge/📧%20Email-adam.mekkiou@outlook.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mekkiou-a-b64021262/" title="💼 Profil LinkedIn" target="_blank">
@@ -188,4 +188,3 @@ Apprenti développeur chez **IXI Groupe**, je mène des projets mêlant **Data, 
 
 <!-- Bandeau wavy décoratif -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111827,100:0ea5e9&section=footer&reversal=true"/>
-
