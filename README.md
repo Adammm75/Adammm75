@@ -1,10 +1,7 @@
-<!--
-  PROFIL README — by ChatGPT for Adammn75
-  Astuce: ce README s'affiche si le dépôt public porte exactement le nom de ton pseudo GitHub.
--->
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=600&center=true&vCenter=true&width=800&lines=Bonjour%2C+je+suis+Adam+Mekkiou+👋;Backend+%7C+APIs+%7C+Automatisations;Spring+Boot+%7C+PHP%2FSymfony+%7C+Data%2FIA" alt="Typing SVG" />
+  <img src="" alt="Typing SVG" />
 </p>
 
 <p align="center">
