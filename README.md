@@ -14,8 +14,8 @@
 ---
 
 ### 🧭 À propos
-Développeur passionné, je conçois des **applications robustes et maintenables**.  
-J’adore transformer des idées en **code propre** : **APIs REST**, **backends performants**, **workflows d’automatisation** et intégrations (n8n, Power Automate).
+Développeur passionné, je conçois des applications robustes et maintenables. J’adore transformer des idées en code propre : APIs REST, backends performants, workflows d’automatisation et intégrations (n8n, Power Automate, Graph, Avensys, OneDrive).
+Actuellement apprenti développeur chez IXI Groupe, je mène des projets mêlant Data, IA et RPA avec un vrai souci RGPD et de documentation.
 
 - 🎓 **Université Paris Nanterre – M1 MIAGE** | Alternance chez **?**
 - 🔭 Actuellement : projets **Spring Boot** / **Symfony**, intégrations **API** (Avensys, Qard), **dashboards** & un peu de **Data/IA**
