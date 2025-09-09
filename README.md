@@ -72,32 +72,118 @@ Apprenti développeur chez **IXI Groupe**, je mène des projets mêlant **Data, 
 
 ---
 
-### 🤝 Me contacter
+# 🤝 Me contacter
 
+<div align="center">
+
+## 🚀 Développeur IA & Full-Stack | Alternance 24 mois
+
+<br>
+
+<!-- Badges de contact principaux avec animations -->
 <p align="center">
-  <!-- Email (remplace l'adresse) -->
-  <a href="mailto:contact@exemple.fr?subject=Contact%20depuis%20GitHub&body=Bonjour%20Adam%2C%20" title="Envoyer un email">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Me%20contacter-red?logo=gmail&logoColor=white" />
+  <a href="mailto:adam.mekkiou@exemple.fr?subject=🚀%20Opportunité%20depuis%20GitHub&body=Bonjour%20Adam%2C%0A%0AJe%20vous%20contacte%20suite%20à%20la%20découverte%20de%20votre%20profil%20GitHub.%0A%0A" title="📧 Email professionnel">
+    <img alt="Email" src="https://img.shields.io/badge/📧%20Email-adam.mekkiou@exemple.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" />
   </a>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mekkiou-a-b64021262/" title="LinkedIn">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adam%20Mekkiou-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <!-- GitHub (vérifie ton pseudo) -->
-  <a href="https://github.com/Adammm75" title="GitHub">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Adammm75-181717?logo=github&logoColor=white" />
-  </a>
-  <!-- CV (optionnel : mets le bon chemin vers ton PDF) -->
-  <a href="./CV_Adam_Mekkiou.pdf" title="Télécharger mon CV">
-    <img alt="CV" src="https://img.shields.io/badge/CV-T%C3%A9l%C3%A9charger-4CAF50?logo=adobeacrobatreader&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mekkiou-a-b64021262/" title="💼 Profil LinkedIn" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/💼%20LinkedIn-Adam%20Mekkiou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-%C3%8Ele%E2%80%91de%E2%80%91France-0a0" alt="Location: Île-de-France" />
-  <br />
-  <sub>Ouvert aux opportunités d’alternance (24 mois)</sub>
+  <a href="https://github.com/Adammm75" title="⭐ Mon GitHub" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/⭐%20GitHub-Adammm75-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="./CV_Adam_Mekkiou.pdf" title="📄 Télécharger mon CV" target="_blank">
+    <img alt="CV" src="https://img.shields.io/badge/📄%20CV-Télécharger-FF6B35?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&logoWidth=20" />
+  </a>
 </p>
+
+<br>
+
+---
+
+### 📍 Informations pratiques
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍%20Localisation-Île--de--France-4A90E2?style=flat-square&logo=googlemaps&logoColor=white" alt="Localisation" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎯%20Objectif-Alternance%20(24%20mois)-FF6B6B?style=flat-square&logo=target&logoColor=white" alt="Recherche alternance" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/📅%20Disponibilité-Immédiate-4ECDC4?style=flat-square&logo=calendar&logoColor=white" alt="Disponibilité" />
+</p>
+
+<br>
+
+### 🎯 Ce que je recherche
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**🔍 Type de poste**
+- Alternance 24 mois
+- Développeur IA / Full-Stack
+- Stage long durée
+- Mission freelance
+
+</td>
+<td align="center" width="50%">
+
+**🌟 Domaines d'intérêt**
+- Intelligence Artificielle
+- Applications Web modernes  
+- Systèmes distribués
+- Innovation technologique
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+### 💬 Discutons ensemble !
+
+<p align="center">
+  <em>🚀 Passionné par l'IA et le développement, je suis à l'écoute de nouvelles opportunités !</em>
+</p>
+
+<p align="center">
+  <strong>📞 Réponse garantie sous 24h</strong> • <strong>🤝 Disponible pour un entretien</strong>
+</p>
+
+<br>
+
+<!-- Badges de technologies favorites -->
+<details>
+<summary><strong>🛠️ Technologies que je maîtrise (cliquez pour développer)</strong></summary>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+</details>
+
+<br>
+
+---
+
+<p align="center">
+  <sub>💡 <em>"L'innovation naît de la rencontre entre la curiosité et l'opportunité"</em></sub>
+</p>
+
+</div>
 
 
 ---
