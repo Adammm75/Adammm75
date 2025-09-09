@@ -73,11 +73,32 @@ Apprenti développeur chez **IXI Groupe**, je mène des projets mêlant **Data, 
 ---
 
 ### 🤝 Me contacter
-<p>
-  <a href="https://www.linkedin.com/in/mekkiou-a-b64021262/">
-    <img src="https://img.shields.io/badge/LinkedIn-Adammn75-blue?logo=linkedin&logoColor=white" />
+
+<p align="center">
+  <!-- Email (remplace l'adresse) -->
+  <a href="mailto:contact@exemple.fr?subject=Contact%20depuis%20GitHub&body=Bonjour%20Adam%2C%20" title="Envoyer un email">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Me%20contacter-red?logo=gmail&logoColor=white" />
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mekkiou-a-b64021262/" title="LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adam%20Mekkiou-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <!-- GitHub (vérifie ton pseudo) -->
+  <a href="https://github.com/Adammm75" title="GitHub">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Adammm75-181717?logo=github&logoColor=white" />
+  </a>
+  <!-- CV (optionnel : mets le bon chemin vers ton PDF) -->
+  <a href="./CV_Adam_Mekkiou.pdf" title="Télécharger mon CV">
+    <img alt="CV" src="https://img.shields.io/badge/CV-T%C3%A9l%C3%A9charger-4CAF50?logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-%C3%8Ele%E2%80%91de%E2%80%91France-0a0" alt="Location: Île-de-France" />
+  <br />
+  <sub>Ouvert aux opportunités d’alternance (24 mois)</sub>
+</p>
+
 
 ---
 
