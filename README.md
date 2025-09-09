@@ -126,17 +126,15 @@ Apprenti développeur chez **IXI Groupe**, je mène des projets mêlant **Data, 
 **🔍 Type de poste**
 - Alternance 24 mois
 - Développeur IA / Full-Stack
-- Stage long durée
-- Mission freelance
 
 </td>
 <td align="center" width="50%">
 
 **🌟 Domaines d'intérêt**
 - Intelligence Artificielle
-- Applications Web modernes  
-- Systèmes distribués
-- Innovation technologique
+- Data Science & Analytics
+- Automatisation des processus
+- Gestion de projets tech
 
 </td>
 </tr>
