@@ -1,6 +1,6 @@
 <!-- Animation de typing pour le titre -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Adam+Mekkiou;💻+Développeur+Full-Stack;🤖+Spécialiste+IA+%26+Data;🎓+M1+MIAGE+Paris+Nanterre;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Adam+Mekkiou;💻+Développeur+Full-Stack;🤖+Spécialiste+IA+%26+Data;🎓+M2+MIAGE+Paris+Nanterre;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -25,7 +25,7 @@ Développeur passionné de **22 ans**, je conçois des applications **robustes e
 
 Apprenti développeur chez **la Française Filiale du Crédit Mutuel Alliance Fédérale**, j'interviens en tant que Product Owner en IA & Block Chain auquel je mène des projets mêlant **IA, Block Chain et Data**, avec un vrai souci du **RGPD** et de la **documentation**.
 
-- 🎓 **Université Paris Nanterre — M1 MIAGE** (Systèmes d'Information Fiables & Intelligence des Données)  
+- 🎓 **Université Paris Nanterre — M2 MIAGE** (Ingénierie des Systèmes Intelligents)  
   🔎 **Alternance** : ouvert aux opportunités (Missions Free lance, CDI, CDD...)
 
 ### 🔧 Ce que j'ai pu faire
