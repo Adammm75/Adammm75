@@ -130,8 +130,6 @@ Apprenti développeur chez **la Française Filiale du Crédit Mutuel Alliance F�
 <p align="center">
   <img src="https://img.shields.io/badge/📍%20Localisation-Île--de--France-4A90E2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localisation" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🎯%20Objectif-Alternance%20(24%20mois)-FF6B6B?style=for-the-badge&logo=target&logoColor=white" alt="Recherche alternance" />
-  &nbsp;
   <img src="https://img.shields.io/badge/📅%20Disponibilité-Immédiate-4ECDC4?style=for-the-badge&logo=calendar&logoColor=white" alt="Disponibilité" />
 </p>
 
@@ -144,7 +142,7 @@ Apprenti développeur chez **la Française Filiale du Crédit Mutuel Alliance F�
 <td align="center" width="50%">
 
 **🔍 Type de poste**
-- 🎓 Alternance 24 mois
+- 🎓 CDI, CDD, Missions Free-Lance
 - 💻 Développeur IA / Full-Stack
 
 </td>
