@@ -21,17 +21,14 @@
 
 ### 🧭 À propos
 
-Développeur passionné de **21 ans**, je conçois des applications **robustes et maintenables**. J'aime transformer des idées en **code propre** : APIs REST, backends performants, **workflows d'automatisation** et intégrations (n8n, Power Automate, Graph, Avensys, OneDrive).  
+Développeur passionné de **22 ans**, je conçois des applications **robustes et maintenables**. J'aime transformer des idées en **code propre** : APIs REST, backends performants, **workflows d'automatisation** et intégrations (n8n, Power Automate, Graph, Avensys, OneDrive).  
 
-Apprenti développeur chez **IXI Groupe**, je mène des projets mêlant **Data, IA et RPA**, avec un vrai souci du **RGPD** et de la **documentation**.
+Apprenti développeur chez **la Française Filiale du Crédit Mutuel Alliance Fédérale**, j'interviens en tant que Product Owner en IA & Block Chain auquel je mène des projets mêlant **IA, Block Chain et Data**, avec un vrai souci du **RGPD** et de la **documentation**.
 
 - 🎓 **Université Paris Nanterre — M1 MIAGE** (Systèmes d'Information Fiables & Intelligence des Données)  
-  🔎 **Alternance** : ouvert aux opportunités (24 mois)
-- 🔭 En ce moment : projets **Spring Boot** / **Symfony**, intégrations **API** (Avensys, Qard), **dashboards** & un peu de **Data/IA**
-- 🧪 J'aime livrer vite, tester, mesurer, itérer
-- ⚡ Fun fact: **Coffee = Code** ☕
+  🔎 **Alternance** : ouvert aux opportunités (Missions Free lance, CDI, CDD...)
 
-### 🔧 Ce que je fais
+### 🔧 Ce que j'ai pu faire
 - 🤖 Automatisation de reportings (**Python**, **SQL**, **Power BI**, **PAD**) et exports **Excel/Word** industrialisés  
 - 🧠 **Agent IA / Golem.ai InboxCare** : tri & réponses aux emails + intégration Avensys (ROI, délais réduits)  
 - ⚙️ **Workflows M365** d'onboarding (comptes, licences, droits) via **Power Automate**  
